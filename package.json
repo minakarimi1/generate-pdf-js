@@ -1,0 +1,24 @@
+{
+  "name": "generate-pdf-js",
+  "version": "1.0.0",
+  "description": "This is an NPM package for reporting in PDF format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mina Karimi",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minakarimi1/generate-pdf-js.git"
+  },
+  "keywords": [
+    "NMP",
+    "Generate",
+    "PDF"
+  ],
+  "bugs": {
+    "url": "https://github.com/minakarimi1/generate-pdf-js/issues"
+  },
+  "homepage": "https://github.com/minakarimi1/generate-pdf-js#readme"
+}
