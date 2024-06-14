@@ -1,5 +1,5 @@
 {
-  "name": "generate-pdf-js",
+  "name": "json_pdf_js",
   "version": "1.0.0",
   "description": "This is an NPM package for reporting in PDF format.",
   "main": "index.js",
